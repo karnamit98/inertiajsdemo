@@ -1,0 +1,14 @@
+.active-link{
+    font-weight: bolder;
+    color:green;
+    text-decoration: line-through;
+}
+
+.text-muted{
+    color: silver;
+}
+
+.fw-bolder{
+    font-weight: bolder;
+    color:red;
+}
